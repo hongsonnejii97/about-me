@@ -1,112 +1,119 @@
 let data = {
-    titlePage : 'Homework JS',
+    titlePage : 'Homework Python',
     navMenu : [
         {
-            name : 'Section 1 : Variable',
+            name : 'Phần 1 : Python Cơ Bản',
             sub : [
                 {
-                    name : '1.1 - Homework',
+                    name : '1.1 - Mở đầu',
                     sub : [
                         {
-                            name : 'Homework 1',
+                            name : 'Hello World',
                             link : 'Section-1/hwork-1/index.html'
                         },
                         {
-                            name : 'Homework 2',
+                            name : 'Toán tử',
                             link : 'Section-1/hwork-2/index.html'
                         },
+                    ]
+                },
+                {
+                    name : '1.2 - Biến, Dữ liệu, Đầu vào',
+                    sub : [
                         {
-                            name : 'Homework 3',
+                            name : 'Biến',
                             link : 'Section-1/hwork-3/index.html'
                         },
                         {
-                            name : 'Homework 4',
+                            name : 'Input',
                             link : 'Section-1/hwork-4/index.html'
                         },
+                    ]
+                },
+                {
+                    name : '1.3 - Toán tử cơ bản',
+                    sub : [
                         {
-                            name : 'Homework 5',
+                            name : 'Bài 1',
                             link : 'Section-1/hwork-5/index.html'
                         },
                         {
-                            name : 'Homework 6',
+                            name : 'Bài 2',
                             link : 'Section-1/hwork-6/index.html'
                         },
+                    ]
+                },
+                {
+                    name : '1.4 - Câu lệnh lựa chọn',
+                    sub : [
                         {
-                            name : 'Homework 7',
+                            name : 'Bài 1',
                             link : 'Section-1/hwork-7/index.html'
                         },
                         {
-                            name : 'Homework 8',
+                            name : 'Bài 2',
                             link : 'Section-1/hwork-8/index.html'
                         },
+                    ]
+                },
+                {
+                    name : '1.5 - Vòng lặp',
+                    sub : [
                         {
-                            name : 'Homework 9',
+                            name : 'Bài 1',
                             link : 'Section-1/hwork-9/index.html'
                         },
                         {
-                            name : 'Homework 10',
+                            name : 'Bài 2',
                             link : 'Section-1/hwork-10/index.html'
                         },
                     ]
                 },
                 {
-                    name : '1.2 - Video',
+                    name : '1.6 - Mảng & Liệt kê',
                     sub : [
                         {
-                            name : 'Homework 1',
-                            link : 'Section-1/hwork-1/'
-                        },
-                        {
-                            name : 'Homework 2',
-                            link : 'Section-1/hwork-2/'
-                        },
-                        {
-                            name : 'Homework 3',
-                            link : 'Section-1/hwork-3/'
+                            name : 'Bài 1',
+                            link : 'Section-1/hwork-11/index.html'
                         },
                     ]
                 },
-               
+                {
+                    name : '1.7 - Chuỗi',
+                    sub : [
+                        {
+                            name : 'Bài 1',
+                            link : 'Section-1/hwork-12/index.html'
+                        },
+                    ]
+                },
+                {
+                    name : '1.8 - Hàm',
+                    sub : [
+                        {
+                            name : 'Bài 1',
+                            link : 'Section-1/hwork-13/index.html'
+                        },
+                    ]
+                },
             ]
         },
         {
-            name : 'Section 2',
+            name : 'Phần 2: Bài Tập Thực Hành',
             sub : [
                 {
-                    name : '2.1 - Homework',
+                    name : '2.1 - Bài tập',
                     sub : [
                         {
-                            name : 'Homework 1',
-                            link : 'Section-2/hwork-1/'
+                            name : 'Bài kiểm tra 01',
+                            link : 'Section-2/hwork-1/index.html'
                         },
                         {
-                            name : 'Homework 2',
-                            link : 'Section-2/hwork-2/'
-                        },
-                        {
-                            name : 'Homework 3',
-                            link : 'Section-2/hwork-3/'
+                            name : 'Bài kiểm tra 02',
+                            link : 'Section-2/hwork-2/index.html'
                         },
                     ]
                 },
-                {
-                    name : '2.2 - Video',
-                    sub : [
-                        {
-                            name : 'Homework 1',
-                            link : 'Section-2/hwork-1/'
-                        },
-                        {
-                            name : 'Homework 2',
-                            link : 'Section-2/hwork-2/'
-                        },
-                        {
-                            name : 'Homework 3',
-                            link : 'Section-2/hwork-3/'
-                        },
-                    ]
-                },
-               
             ]
         },
               
