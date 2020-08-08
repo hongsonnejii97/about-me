@@ -8,6 +8,10 @@ let data = {
                     name : '1.1 - Mở đầu',
                     sub : [
                         {
+                            name : 'Cài đặt & Cấu hình',
+                            link : 'Section-1/hwork-0/index.html'
+                        },
+                        {
                             name : 'Hello World',
                             link : 'Section-1/hwork-1/index.html'
                         },
